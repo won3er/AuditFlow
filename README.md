@@ -15,10 +15,6 @@ Empresas e equipes de auditoria, jurídico e compliance que precisam controlar d
 - **Papéis e permissões**: administrador, auditor, analista e leitor, com várias organizações.
 - **Uso da chave de IA do próprio cliente**, com vários provedores suportados.
 
----
-
-Este repositório é uma **vitrine** do projeto: mostra o que o sistema faz. O código-fonte não é público.
-
 ## Telas
 
 Telas com os dados de demonstração fictícios que acompanham o projeto.
