@@ -19,4 +19,14 @@ Empresas e equipes de auditoria, jurídico e compliance que precisam controlar d
 
 Este repositório é uma **vitrine** do projeto: mostra o que o sistema faz. O código-fonte não é público.
 
+## Telas
+
+Telas com os dados de demonstração fictícios que acompanham o projeto.
+
+![Painel executivo de governança e riscos](images/painel.jpg)
+
+![Repositório de documentos](images/documentos.jpg)
+
+![Documento com metadados e trechos de evidência](images/documento.jpg)
+
 Desenvolvido por [@won3er](https://github.com/won3er).
